@@ -1,0 +1,8 @@
+db.sqlite3
+*.pyc
+main/migrations/*
+media/upload/*
+idea/
+Pipfile
+Pipfile.lock
+.DS_Store
